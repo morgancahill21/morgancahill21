@@ -46,7 +46,7 @@ Built and mainly analyzed a dashboard in Looker Studio to visualize campaign per
 ### 
 
 ## 🌱 Currently Learning
-- Advanced SQL for analytics  
+- Advanced SQL for database management and analytics  
 - Machine learning model evaluation  
 - Data visualization best practices  
 - Marketing attribution and consumer insights
