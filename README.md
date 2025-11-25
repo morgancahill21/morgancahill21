@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 I'm a data analytics student with a growing interest in how data, marketing, and user behavior intersect. I love using analytics to understand what drives people, whether that's the music they listen to or the brands they connect with.
 
-Right now, I'm working on a **music data analytics dashboard** using public Spotify API data. The project explores trends in genre preferences, audio features, and listener behavior, with a focus on how insights like these can support marketing strategies, audience segmentation, and creative campaign decisions.
+Right now, I'm working on a project where I plan to analyze publicly available Google Analytics Demo Store data to uncover key insights across the e-commerce customer journey. The goal is to evaluate marketing performance, understand customer behavior, and identify the drivers of revenue and retention.
 
 I'm passionate about blending:
-- 🎧 **Music + Entertainment Data**
 - 📈 **Marketing Analytics & Consumer Insights**
+- 🎧 **Music + Entertainment Data**
 - 💼 **Finance & Sales Data Analytics**
 - 🤖 **Machine Learning & Data Storytelling**
 
