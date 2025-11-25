@@ -27,9 +27,35 @@ I'm passionate about blending:
 Always excited to build projects that combine creativity with data-driven thinking.
 
 
+## 🛠 Skills & Tools
+
+**Languages:** Python, SQL, Java, C++  
+**Analytics:** Tableau, Power BI, Excel (PivotTables, Power Query), Looker Studio, Google Analytics, Google BigQuery  
+**Machine Learning:** scikit-learn, pandas, NumPy, scipy  
+**Marketing Tools:** CRM platforms, A/B testing, segmentation, Funnel.io
+**Other:** Git/GitHub, Jupyter Notebook
+
+## 🚀 Projects
+
+### 🎧 Music ML Workshop
+Applied machine learning packages such as numPy, scikit-learn, seaborn, and pandas to preprocess, analyze, and predict survey data about member music preferences in order to be used for clustering and machine-learning analysis. This served as the foundation for exploring patterns in music taste and building predictive models for a capstone project.
+
+### 📢 Marketing Analytics
+Built and mainly analyzed a dashboard in Looker Studio to visualize campaign performance, audience behavior, and funnel metrics. Applied this dashboard into a monthly exec report for client to understand campaign preformance.
+
+### 
+
+## 🌱 Currently Learning
+- Advanced SQL for analytics  
+- Machine learning model evaluation  
+- Data visualization best practices  
+- Marketing attribution and consumer insights
+- Advanced reporting and dashboard creation for analytics  
+
 🌱 Always learning, especially around ML, analytics, AI, and real-world applications of data.
 
-📫 Connect with me:
+## 📫 Connect with me:
 - LinkedIn: www.linkedin.com/in/morgan-cahill
 - Email: mcahill0221@gmail.com
+
 
