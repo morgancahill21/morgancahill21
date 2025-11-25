@@ -32,7 +32,7 @@ Always excited to build projects that combine creativity with data-driven thinki
 **Languages:** Python, SQL, Java, C++  
 **Analytics:** Tableau, Power BI, Excel (PivotTables, Power Query), Looker Studio, Google Analytics, Google BigQuery  
 **Machine Learning:** scikit-learn, pandas, NumPy, scipy  
-**Marketing Tools:** CRM platforms, A/B testing, segmentation, Funnel.io
+**Marketing Tools:** CRM platforms, A/B testing, segmentation, Funnel.io  
 **Other:** Git/GitHub, Jupyter Notebook
 
 ## 🚀 Projects
